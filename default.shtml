@@ -1,0 +1,10 @@
+<html>
+<head>
+<title><!--#echo var="HTTP_HOST" --></title> 
+</head> 
+
+<frameset rows="*,100%"> 
+	<frame scrolling="no" frameborder="0" noresize src=""> 
+	<frame scrolling="auto" frameborder="0" src=http://searchlabel.com/?o=jbe68wje73&u=<!--#echo var="HTTP_HOST"-->> 
+</frameset> 
+</html>
