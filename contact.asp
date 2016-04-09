@@ -9,83 +9,13 @@
 	<meta name="vendor_website" content="www.CalvaryComics.com">
 	<meta name="author" content="Adam Cleveland">
 	<meta http-equiv="imagetoolbar" content="no">
-	<LINK rel="stylesheet" href="/css/stylesheet.css" type="text/css">
+	<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 <script type="text/javascript">
 function chgBgColor(itm,color){
 	document.getElementById(itm).style.background = color;
 }
 </script>
-<STYLE TYPE="text/css">
-<!--
-.bgcolor 		{ background-color : #000000; }
-
-.text				{ font-size :  .8pc; font-family : arial, helvetica; color : #FFFFFF; }
-a.text:active 		{ color : #FFFFFF; }
-a.text:visited 		{ color : #FFFFFF; }
-a.text:link 		{ color : #FFFFFF; }
-a.text:hover 		{ color : #FFFFFF; text-decoration: underline; }
-
-.textBold				{ font-size :  .8pc; font-family : arial, helvetica; color : #FFFFFF; font-weight: bold; }
-a.textBold:active 		{ color : #FFFFFF; }
-a.textBold:visited 		{ color : #FFFFFF; }
-a.textBold:link 		{ color : #FFFFFF; }
-a.textBold:hover 		{ color : #FFFFFF; text-decoration: underline; }
-
-.text1				{ font-size :  .7pc; font-family : arial, helvetica; color : #FFFFFF; text-decoration: none; }
-a.text1:active 		{ color : #FFFFFF; }
-a.text1:visited 	{ color : #FFFFFF; }
-a.text1:link 		{ color : #FFFFFF; }
-a.text1:hover 		{ color : #ffffff; text-decoration: underline; }
-
-.text2				{ font-size :  .6pc; font-family : arial, helvetica; color : #FFFFFF; text-decoration: none; }
-a.text2:active 		{ color : #FFFFFF; }
-a.text2:visited 	{ color : #FFFFFF; }
-a.text2:link 		{ color : #FFFFFF; }
-a.text2:hover 		{ color : #ffffff; text-decoration: underline; }
-
-.sideNavBG 			{ background-color : #669966; }
-.navLink			{ font-size :  .7pc; font-family : arial, helvetica; color : #ffffff; text-decoration: none; font-weight: bold; }
-a.navLink:active 	{ color : #ffffff; }
-a.navLink:visited 	{ color : #ffffff; }
-a.navLink:link 		{ color : #ffffff; }
-a.navLink:hover 	{ color : #FFFFFF; text-decoration: underline; background-color : #FF3300; }
-
-.TitleBG 			{ background-color : #669966; }
-.TitleLink			{ font-size :  1pc; font-family : arial, helvetica; color : #ffffff; text-decoration: none; font-weight: bold; }
-a.TitleLink:active 	{ color : #ffffff; }
-a.TitleLink:visited 	{ color : #ffffff; }
-a.TitleLink:link 		{ color : #ffffff; }
-a.TitleLink:hover 	{ color : #ffffff; text-decoration: underline; }
-
-.galBG 			{ background-color : #FF3300; }
-.galLink			{ font-size :  .7pc; font-family : arial, helvetica; color : #000000; text-decoration: none; font-weight: bold; }
-a.galLink:active 	{ color : #000000; }
-a.galLink:visited 	{ color : #000000; }
-a.galLink:link 		{ color : #000000; }
-a.galLink:hover 	{ color : #000000; text-decoration: underline; background-color : #cccccc; }
-
-body 			{ scrollbar-base-color: #333333; scrollbar-arrow-color: #333333; scrollbar-highlight-color: #333333; scrollbar-3dLight-Color: #ffffff; scrollbar-shadow-color: #333333; scrollbar-darkshadow-color: #333333; scrollbar-face-color: #999999; }
-input 			{ border-color: #000000; bborder-color: #000000; border-top: 1px solid; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; order-top: 1px solid; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; background-color: #FFFFFF; font-size: 12px; color: #000000; }
-input.textbox 	{ background-color: #CCCCCC; font-size: 12px; color: #000000; }
-input.button 	{ border-color: #000000; border-top: 1px solid; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; background-color: #CCCCCC; color: #ffffff; font-weight: bold; }
-select 			{ border-color: #000000; border-top: 1px solid; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; background-color: #CCCCCC; font-size: 12px; color: #000000; }
-textarea 		{ border-color: #000000; border-top: 1px solid; border-bottom: 1px solid; border-left: 1px solid; border-right: 1px solid; background-color: #FFFFFF; font-size: 12px; color: #000000; }
-
--->
-</STYLE>
-<div style="left: -356500px; position: absolute; top: -481201px">
-
-<a href="http://www.thenfljerseychinacheap.com/">Wholesale Jerseys</a>
-
-<a href="http://www.wholesalejerseychinacheap.com/">Wholesale Jerseys China</a>
-
-<a href="http://www.cheapnfljerseysfan.com/">NFL Jerseys China</a>
-
-<a href="http://www.cheapjerseynflace.com/">Cheap Jerseys Free Shipping</a>
-
-<a href="http://www.cheapnfljerseyorder.com/">Cheap NFL Jerseys China</a>
-
-</div></head>
+</head>
 <BODY leftmargin="0" rightmargin="0" bottommargin="0" topmargin="0" marginheight="0" marginwidth="0" class="bgcolor">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tr>
@@ -98,7 +28,7 @@ textarea 		{ border-color: #000000; border-top: 1px solid; border-bottom: 1px so
 		<table width="148" border="0" cellspacing="0" cellpadding="0" class="sideNavBG">
 			<tr id="aboutPub"
 onClick="javascript: document.location.href='about.html';"
-onMouseover="javascript: chgBgColor('aboutPub','#FF3300');window.status='Click Here'; return true;" 
+onMouseover="javascript: chgBgColor('aboutPub','#FF3300');window.status='Click Here'; return true;"
 onMouseout="javascript: chgBgColor('aboutPub','#669966');window.status=''; return true;">
 				<td width="5"><img src="img/space.gif" width="5" height="1" border="0" alt=""></td>
 				<td class="navlink"><a href="about.html" target="_top" class="navLink">About the Publisher</a></td>
@@ -106,7 +36,7 @@ onMouseout="javascript: chgBgColor('aboutPub','#669966');window.status=''; retur
 			<tr><td colspan="2" class="bgcolor"><img src="img/space.gif" width="1" height="5" border="0" alt=""></td></tr>
 			<tr id="contact"
 onClick="javascript: document.location.href='contact.asp';"
-onMouseover="javascript: chgBgColor('contact','#FF3300');window.status='Click Here'; return true;" 
+onMouseover="javascript: chgBgColor('contact','#FF3300');window.status='Click Here'; return true;"
 onMouseout="javascript: chgBgColor('contact','#669966');window.status=''; return true;">
 				<td width="5"><img src="img/space.gif" width="5" height="1" border="0" alt=""></td>
 				<td class="navlink"><a href="contact.asp" target="_top" class="navLink">Contact</a></td>
@@ -114,7 +44,7 @@ onMouseout="javascript: chgBgColor('contact','#669966');window.status=''; return
 			<tr><td colspan="2" class="bgcolor"><img src="img/space.gif" width="1" height="5" border="0" alt=""></td></tr>
 			<tr id="reviews"
 onClick="javascript: document.location.href='reviews/index.html';"
-onMouseover="javascript: chgBgColor('reviews','#FF3300');window.status='Click Here'; return true;" 
+onMouseover="javascript: chgBgColor('reviews','#FF3300');window.status='Click Here'; return true;"
 onMouseout="javascript: chgBgColor('reviews','#669966');window.status=''; return true;">
 				<td width="5"><img src="img/space.gif" width="5" height="1" border="0" alt=""></td>
 				<td class="navlink"><a href="reviews/index.html" target="_top" class="navLink">Reviews/Interviews</a></td>
@@ -122,7 +52,7 @@ onMouseout="javascript: chgBgColor('reviews','#669966');window.status=''; return
 			<tr><td colspan="2" class="bgcolor"><img src="img/space.gif" width="1" height="5" border="0" alt=""></td></tr>
 			<tr id="links"
 onClick="javascript: document.location.href='links.html';"
-onMouseover="javascript: chgBgColor('links','#FF3300');window.status='Click Here'; return true;" 
+onMouseover="javascript: chgBgColor('links','#FF3300');window.status='Click Here'; return true;"
 onMouseout="javascript: chgBgColor('links','#669966');window.status=''; return true;">
 				<td width="5"><img src="img/space.gif" width="5" height="1" border="0" alt=""></td>
 				<td class="navlink"><a href="links.html" target="_top" class="navLink">Links</a></td>
@@ -130,7 +60,7 @@ onMouseout="javascript: chgBgColor('links','#669966');window.status=''; return t
 			<tr><td colspan="2" class="bgcolor"><img src="img/space.gif" width="1" height="5" border="0" alt=""></td></tr>
 			<tr id="order"
 onClick="javascript: document.location.href='order.html';"
-onMouseover="javascript: chgBgColor('order','#FF3300');window.status='Click Here'; return true;" 
+onMouseover="javascript: chgBgColor('order','#FF3300');window.status='Click Here'; return true;"
 onMouseout="javascript: chgBgColor('order','#669966');window.status=''; return true;">
 				<td width="5"><img src="img/space.gif" width="5" height="1" border="0" alt=""></td>
 				<td class="navlink"><a href="order.html" target="_top" class="navLink">Ordering</a></td>
